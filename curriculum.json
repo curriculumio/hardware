@@ -1,0 +1,26 @@
+{
+  "title": "Hardware",
+  "text": "Learn the main tools of a web designer - HTML and CSS. This course focuses on user interface, design elements, and dynamic content.",
+  "short": "",
+  "long": "",
+  "color": "orange-600",
+  
+  "section": {
+    "html": {
+      "title": "HTML",
+      "text": ""
+    },
+    "css": {
+      "title": "CSS",
+      "text": ""
+    },
+    "selectors": {
+      "title": "Selectors",
+      "text": ""
+    },
+    "layout": {
+      "title": "Website Layouts",
+      "text": ""
+    }
+  }
+}
