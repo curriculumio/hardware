@@ -1,26 +1,16 @@
 {
   "title": "Hardware",
-  "text": "Learn the main tools of a web designer - HTML and CSS. This course focuses on user interface, design elements, and dynamic content.",
+  "text": "Gain deeper insight into how computers work.",
   "short": "",
   "long": "",
-  "color": "orange-600",
-  
+  "color": "amber-600",
+
   "section": {
-    "html": {
-      "title": "HTML",
-      "text": ""
-    },
-    "css": {
-      "title": "CSS",
-      "text": ""
-    },
-    "selectors": {
-      "title": "Selectors",
-      "text": ""
-    },
-    "layout": {
-      "title": "Website Layouts",
-      "text": ""
+    "binary": {
+        "title": "Binary Numbers",
+        "text": "Digital computers represent numbers using only two symbols.",
+        "socratic": true,
+        "math": true
     }
   }
 }
