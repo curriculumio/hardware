@@ -1,3 +1,25 @@
 {
-	"title": "Transistors"
+	"title": "Transistors",
+	"text": "",
+	"objective": "",
+	"type": "lesson",
+
+	"section": {
+        "nmos": {
+            "title": "NMOS",
+            "text": ""
+        },
+        "pmos": {
+            "title": "PMOS",
+            "text": ""
+        },
+        "not": {
+            "title": "Not gate",
+            "text": ""
+        },
+        "nor": {
+            "title": "NOR gate",
+            "text": ""
+        }
+    }
 }
