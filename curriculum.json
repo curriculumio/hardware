@@ -7,8 +7,7 @@
     "binary": {
         "title": "Binary Numbers",
         "text": "Digital computers represent numbers through on-and-off switches.",
-        "socratic": true,
-        "math": true
+        "socratic": true
     },
     "logic": {
         "title": "Logic Gates",
