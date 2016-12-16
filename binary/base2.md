@@ -1,5 +1,5 @@
 > Hold up two fingers.
-f
+
 **What if we were aliens with only two fingers, how many symbols might we have?**<br>
 Perhaps we would only have two.
 
