@@ -5,5 +5,23 @@
     "objective": "",
     "author": [],
     "length": 0,
-    "section": {}
+
+    "section": {
+        "nmos": {
+            "title": "NMOS",
+            "text": ""
+        },
+        "pmos": {
+            "title": "PMOS",
+            "text": ""
+        },
+        "not": {
+            "title": "Not gate",
+            "text": ""
+        },
+        "nor": {
+            "title": "NOR gate",
+            "text": ""
+        }
+    }
 }

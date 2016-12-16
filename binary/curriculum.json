@@ -1,9 +1,31 @@
 {
-    "title": "",
-    "text": "",
-    "type": "lesson",
-    "objective": "",
-    "author": [],
-    "length": 0,
-    "section": {}
+	"title": "Binary",
+	"text": "A socratic seminar for introducing binary numbers.",
+	"objective": "think about different ways to represent numbers",
+	"type": "discussion",
+
+	"idea": "http://cse4k12.org/binary/magic_trick.html, http://cse4k12.org/crossbin/index.html",
+
+	"section": {
+		"base10": {
+			"template": "blank",
+			"title": "Base 10"
+		},
+		"base2": {
+			"template": "blank",
+			"title": "Base 2"
+		},
+		"place": {
+			"template": "blank",
+			"title": "Place"
+		},
+		"arithmetic": {
+			"template": "blank",
+			"title": "Arithmetic"
+		},
+		"ascii": {
+			"title": "ASCII",
+			"text": "The American Standard Code for Information Interexchange represents every character with a unique number."
+		}
+	}
 }
