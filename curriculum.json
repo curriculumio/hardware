@@ -4,7 +4,7 @@
   "objective": "learn how digital computers work",
   "topic": "hardware",
   "color": "red",
-  "author": "keshav",
+  "author": ["keshav"],
 
   "idea": "http://cse4k12.org/",
 
