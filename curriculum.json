@@ -12,7 +12,7 @@
     "components": {
         "title": "Digital Components",
         "text": "Introduces digital computing, logic gates, and circuit diagrams.",
-        "lesson": ["binary", "transistor", "logic-gates", "digital-components", "human-computer"]
+        "lesson": ["binary", "transistors", "logic-gates", "digital-components", "human-computer"]
     }
   }
 }
