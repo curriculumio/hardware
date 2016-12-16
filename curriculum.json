@@ -1,22 +1,18 @@
 {
-  "title": "Hardware",
+  "title": "Computer Architecture",
   "text": "Gain deeper insight into how computers work.",
-  "stext": "We designed it as a series of Socratic seminars that can be illustrative for anyone, regardless of experience. The goal is to illustrate important topics in computer architecture and design through critical thinking. Examples used in the class are designed to draw upon intuitive concepts, and require a skilled facilitator for maximum effectiveness.",
-  
-  "section": {
-    "binary": {
-        "title": "Binary Numbers",
-        "text": "Digital computers represent numbers through on-and-off switches.",
-        "socratic": true
-    },
-    "logic": {
-        "title": "Logic Gates",
-        "text": "The devices by which a computer manipulates electric signals.",
-        "socratic": true
-    },
-    "device": {
-        "title": "Digital devices",
-        "text": ""
+  "objective": "learn how digital computers work",
+  "topic": "hardware",
+  "color": "red",
+  "author": "keshav",
+
+  "idea": "http://cse4k12.org/",
+
+  "path": {
+    "components": {
+        "title": "Digital Components",
+        "text": "Introduces digital computing, logic gates, and circuit diagrams.",
+        "lesson": ["binary", "logic-gates", "digital-components", "human-computer"]
     }
   }
 }
