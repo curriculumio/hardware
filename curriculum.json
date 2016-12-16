@@ -6,11 +6,13 @@
   "color": "red",
   "author": ["keshav"],
 
+  "idea": "http://cse4k12.org/",
+
   "path": {
     "components": {
         "title": "Digital Components",
         "text": "Introduces digital computing, logic gates, and circuit diagrams.",
-        "lesson": ["binary", "transistors", "logic-gates", "digital-components", "human-computer", "test"]
+        "lesson": ["binary", "transistors", "logic-gates", "digital-components", "human-computer"]
     }
   }
 }
