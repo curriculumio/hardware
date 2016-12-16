@@ -1,5 +1,3 @@
-#### Base 2
-
 > Hold up two fingers.
 
 **What if we were aliens with only two fingers, how many symbols might we have?**<br>
